@@ -54,7 +54,7 @@ Aplikasi ini dapat diinstal pada server lokal maupun online dengan spesifikasi b
 
 ### Langkah Instalasi
 
-1. Clone repositori ini dengan perintah: `git clone https://github.com/buku-masjid/buku-masjid.git`
+1. Clone repositori ini dengan perintah: `git clone https://github.com/ardifx01/buku-masjid.git`
 2. Masuk ke direktori buku-masjid: `$ cd buku-masjid`
 3. Instal dependensi menggunakan: `$ composer install`
 4. Salin berkas `.env.example` ke `.env`: `$ cp .env.example .env`
@@ -141,7 +141,7 @@ Hapus semua demo data (yang `created_at` nya `NULL`)
 $ php artisan buku-masjid:remove-demo-data
 ```
 
-Lengkapnya dapat dilihat pada: [Dokumentasi buku-masjid/demo-data](https://github.com/buku-masjid/demo-data#cara-pakai).
+Lengkapnya dapat dilihat pada: [Dokumentasi buku-masjid/demo-data](https://github.com/ardifx01/demo-data#cara-pakai).
 
 ## Screenshot
 
@@ -165,22 +165,15 @@ Lengkapnya dapat dilihat pada: [Dokumentasi buku-masjid/demo-data](https://githu
 
 Jika Anda ingin berkontribusi pada proyek ini, kami sangat menghargainya. Berikut beberapa yang dapat Anda lakukan:
 
-1. Laporkan [issue](https://github.com/buku-masjid/buku-masjid/issues) jika Anda menemui kesalahan atau bug.
-2. Sampaikan [diskusi](https://github.com/buku-masjid/buku-masjid/discussions) jika Anda ingin mengusulkan fitur baru atau perubahan pada fitur yang sudah ada.
-3. Ajukan [pull request](https://github.com/buku-masjid/buku-masjid/pulls) untuk perbaikan bug, penambahan fitur baru, atau perbaikan label.
+1. Laporkan [issue](https://github.com/ardifx01/buku-masjid/issues) jika Anda menemui kesalahan atau bug.
+2. Sampaikan [diskusi](https://github.com/ardifx01/buku-masjid/discussions) jika Anda ingin mengusulkan fitur baru atau perubahan pada fitur yang sudah ada.
+3. Ajukan [pull request](https://github.com/ardifx01/buku-masjid/pulls) untuk perbaikan bug, penambahan fitur baru, atau perbaikan label.
 
 ## Kontak
 
 Untuk Diskusi:
 
-* [Grup Chat Telegram](https://t.me/bukumasjid_id)
-* [Usulan Fitur Baru](https://github.com/buku-masjid/buku-masjid/discussions)
-
-Untuk pengumuman dan update:
-
-* [Follow Twitter](https://twitter.com/bukumasjid)
-* [Like Facebook Page](https://facebook.com/bukumasjid)
-* [Telegram Channel](https://t.me/bukumasjid)
+* [Usulan Fitur Baru](https://github.com/ardifx01/buku-masjid/discussions)
 
 ## Lisensi
 
